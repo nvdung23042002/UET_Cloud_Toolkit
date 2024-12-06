@@ -1,0 +1,177 @@
+Date : 2024-11-05 01:22:22
+Directory : /home/dungnv/work-space/nal/ccb-cdk-codebase
+Total : 111 files,  12879 codes, 1391 comments, 864 blanks, all 15134 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |         14 |      6,833 |          0 |         14 |      6,847 |
+| TypeScript         |         47 |      5,040 |      1,264 |        607 |      6,911 |
+| Shell Script       |          8 |        409 |         68 |         75 |        552 |
+| YAML               |         12 |        253 |         38 |         56 |        347 |
+| Markdown           |          5 |        202 |          0 |         75 |        277 |
+| Properties         |         14 |         74 |         18 |         10 |        102 |
+| JavaScript         |          3 |         26 |          0 |          3 |         29 |
+| Docker             |          4 |         25 |          3 |         18 |         46 |
+| JSON with Comments |          1 |          8 |          0 |          1 |          9 |
+| Python             |          1 |          7 |          0 |          4 |         11 |
+| pip requirements   |          1 |          1 |          0 |          0 |          1 |
+| HTML               |          1 |          1 |          0 |          1 |          2 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                       |        111 |     12,879 |      1,391 |        864 |     15,134 |
+| . (Files)                                                                                                               |         12 |      6,642 |          4 |         14 |      6,660 |
+| .github                                                                                                                 |          8 |        315 |         34 |        110 |        459 |
+| .github/workflows                                                                                                       |          8 |        315 |         34 |        110 |        459 |
+| bin                                                                                                                     |          1 |        152 |         70 |         32 |        254 |
+| container                                                                                                               |         43 |        874 |         89 |        132 |      1,095 |
+| container (Files)                                                                                                       |          1 |         60 |          0 |          8 |         68 |
+| container/bastion                                                                                                       |          3 |         78 |          9 |         20 |        107 |
+| container/bastion (Files)                                                                                               |          1 |         54 |          7 |         12 |         73 |
+| container/bastion/docker                                                                                                |          2 |         24 |          2 |          8 |         34 |
+| container/sample-backend                                                                                                |         18 |        353 |         38 |         51 |        442 |
+| container/sample-backend (Files)                                                                                        |          3 |         18 |          0 |         12 |         30 |
+| container/sample-backend/build_bg                                                                                       |          6 |        127 |         17 |         16 |        160 |
+| container/sample-backend/build_ecspresso                                                                                |          9 |        208 |         21 |         23 |        252 |
+| container/sample-ecs-app                                                                                                |          2 |         18 |          0 |          3 |         21 |
+| container/sample-frontend                                                                                               |         19 |        365 |         42 |         50 |        457 |
+| container/sample-frontend (Files)                                                                                       |          4 |         39 |          2 |         11 |         52 |
+| container/sample-frontend/build_bg                                                                                      |          6 |        127 |         17 |         16 |        160 |
+| container/sample-frontend/build_ecspresso                                                                               |          9 |        199 |         23 |         23 |        245 |
+| lambda                                                                                                                  |          1 |          8 |          0 |          1 |          9 |
+| lambda/batch-sample-app                                                                                                 |          1 |          8 |          0 |          1 |          9 |
+| lib                                                                                                                     |         41 |      3,959 |      1,039 |        463 |      5,461 |
+| lib/construct                                                                                                           |         27 |      3,239 |      1,005 |        355 |      4,599 |
+| lib/construct (Files)                                                                                                   |         10 |      1,579 |        350 |        115 |      2,044 |
+| lib/construct/aurora-constructs                                                                                         |          4 |        202 |        109 |         44 |        355 |
+| lib/construct/ecs-app-construct                                                                                         |         11 |      1,344 |        420 |        170 |      1,934 |
+| lib/construct/ecs-app-construct (Files)                                                                                 |          1 |        252 |         81 |         23 |        356 |
+| lib/construct/ecs-app-construct/construct                                                                               |         10 |      1,092 |        339 |        147 |      1,578 |
+| lib/construct/opensearch-constructs                                                                                     |          2 |        114 |        126 |         26 |        266 |
+| lib/stack                                                                                                               |         14 |        720 |         34 |        108 |        862 |
+| params                                                                                                                  |          4 |        774 |        143 |         92 |      1,009 |
+| test                                                                                                                    |          1 |        155 |         12 |         20 |        187 |
++-------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                                | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.env                                                                       | Properties         |          2 |          0 |          1 |          3 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.eslintrc.json                                                             | JSON               |         11 |          0 |          1 |         12 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/HowToUse-InfraResources.md                               | Markdown           |         52 |          0 |         23 |         75 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/HowToUse-maintenance.md                                  | Markdown           |         32 |          0 |         17 |         49 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/InfraResources_ExecutePipeline.yml                       | YAML               |         33 |          0 |          5 |         38 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/InfraResources_RunTest.yml                               | YAML               |         21 |          3 |          6 |         30 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/README.md                                                | Markdown           |         56 |          0 |         25 |         81 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/maintenance-off.yml                                      | YAML               |         51 |          5 |         12 |         68 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/maintenance-on.yml                                       | YAML               |         51 |          5 |         12 |         68 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/workflows_template.yml                                   | YAML               |         19 |         21 |         10 |         50 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.prettierrc.json                                                           | JSON               |          7 |          0 |          1 |          8 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/.versionrc.js                                                              | JavaScript         |         11 |          0 |          1 |         12 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/README.md                                                                  | Markdown           |          2 |          0 |          2 |          4 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/bin/blea-guest-ecsapp-sample.ts                                            | TypeScript         |        152 |         70 |         32 |        254 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/buildspec.yaml                                                             | YAML               |         16 |          4 |          2 |         22 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/cdk.json                                                                   | JSON               |          6 |          0 |          1 |          7 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/README.md                                                        | Markdown           |         60 |          0 |          8 |         68 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/bastion/docker/Dockerfile                                        | Docker             |          9 |          1 |          5 |         15 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/bastion/docker/check_login.sh                                    | Shell Script       |         15 |          1 |          3 |         19 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/bastion/run_task.sh                                              | Shell Script       |         54 |          7 |         12 |         73 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/Dockerfile                                        | Docker             |         10 |          0 |          8 |         18 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/app.py                                            | Python             |          7 |          0 |          4 |         11 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/appspec.yaml                             | YAML               |          9 |          0 |          1 |         10 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/build.sh                                 | Shell Script       |         87 |         14 |         14 |        115 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/dev.conf                                 | Properties         |          3 |          1 |          0 |          4 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/prd.conf                                 | Properties         |          3 |          1 |          0 |          4 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/stg.conf                                 | Properties         |          3 |          1 |          0 |          4 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/taskdef_template.json                    | JSON               |         22 |          0 |          1 |         23 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/autoscale_sample.sh               | Shell Script       |          9 |          1 |          2 |         12 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/build.sh                          | Shell Script       |         74 |         14 |         14 |        102 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/dev.conf                          | Properties         |          6 |          2 |          1 |          9 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/ecs-service-def.json              | JSON               |         59 |          0 |          1 |         60 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/ecs-task-def.json                 | JSON               |         36 |          0 |          1 |         37 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/ecspresso.yml                     | YAML               |          6 |          0 |          1 |          7 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/imagedefinitions.json             | JSON               |          6 |          0 |          1 |          7 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/prd.conf                          | Properties         |          6 |          2 |          1 |          9 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/stg.conf                          | Properties         |          6 |          2 |          1 |          9 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/requirements.txt                                  | pip requirements   |          1 |          0 |          0 |          1 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-ecs-app/Dockerfile                                        | Docker             |          1 |          0 |          1 |          2 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-ecs-app/buildspec.yml                                     | YAML               |         17 |          0 |          2 |         19 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/Dockerfile                                       | Docker             |          5 |          2 |          4 |         11 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/appspec.yaml                            | YAML               |          9 |          0 |          1 |         10 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/build.sh                                | Shell Script       |         87 |         14 |         14 |        115 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/dev.conf                                | Properties         |          3 |          1 |          0 |          4 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/prd.conf                                | Properties         |          3 |          1 |          0 |          4 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/stg.conf                                | Properties         |          3 |          1 |          0 |          4 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/taskdef_template.json                   | JSON               |         22 |          0 |          1 |         23 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/autoscale_sample.sh              | Shell Script       |          9 |          1 |          2 |         12 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/build.sh                         | Shell Script       |         74 |         16 |         14 |        104 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/dev.conf                         | Properties         |          6 |          2 |          1 |          9 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/ecs-service-def.json             | JSON               |         50 |          0 |          1 |         51 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/ecs-task-def.json                | JSON               |         36 |          0 |          1 |         37 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/ecspresso.yml                    | YAML               |          6 |          0 |          1 |          7 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/imagedefinitions.json            | JSON               |          6 |          0 |          1 |          7 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/prd.conf                         | Properties         |          6 |          2 |          1 |          9 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/stg.conf                         | Properties         |          6 |          2 |          1 |          9 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/docker-compose.yaml                              | YAML               |         15 |          0 |          3 |         18 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/index.html                                       | HTML               |          1 |          0 |          1 |          2 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/nginx.conf                                       | Properties         |         18 |          0 |          3 |         21 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/jest.config.js                                                             | JavaScript         |          7 |          0 |          1 |          8 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lambda/batch-sample-app/index.js                                           | JavaScript         |          8 |          0 |          1 |          9 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-alarm-construct.ts                  | TypeScript         |         49 |         36 |          8 |         93 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-cluster-construct.ts                | TypeScript         |         86 |         67 |         26 |        179 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-mysql-construct.ts                  | TypeScript         |         34 |          3 |          5 |         42 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-postgresql-construct.ts             | TypeScript         |         33 |          3 |          5 |         41 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aws-managed-prefixlist.ts                                    | TypeScript         |         35 |          5 |          6 |         46 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/chatbot-construct.ts                                         | TypeScript         |         28 |         17 |          5 |         50 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/cloudfront-construct.ts                                      | TypeScript         |        130 |         54 |         17 |        201 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/cognito-construct.ts                                         | TypeScript         |         52 |         25 |         13 |         90 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/dashboard-construct.ts                                       | TypeScript         |        843 |        104 |         19 |        966 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/alb-blue-green-construct.ts      | TypeScript         |        228 |         57 |         23 |        308 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/alb-construct.ts                 | TypeScript         |        184 |         38 |         21 |        243 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/alb-target-group-construct.ts    | TypeScript         |         65 |         24 |          8 |         97 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/bastion-ecs-construct.ts         | TypeScript         |         87 |         32 |         15 |        134 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-app-construct.ts             | TypeScript         |         93 |         38 |         16 |        147 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-common-construct.ts          | TypeScript         |         79 |         21 |         14 |        114 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-service-construct.ts         | TypeScript         |         62 |         46 |         14 |        122 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-task-role-construct.ts       | TypeScript         |         48 |         19 |          8 |         75 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/pipeline-blue-green-construct.ts | TypeScript         |         70 |         18 |         13 |        101 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/pipeline-ecspresso-construct.ts  | TypeScript         |        176 |         46 |         15 |        237 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/index.ts                                   | TypeScript         |        252 |         81 |         23 |        356 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/kms-key-construct.ts                                         | TypeScript         |         30 |          2 |          6 |         38 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/oidc-iamrole-construct.ts                                    | TypeScript         |         34 |         12 |          5 |         51 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/opensearch-constructs/opensearch-construct.ts                | TypeScript         |         54 |         69 |         16 |        139 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/opensearch-constructs/opensearch-serverless-construct.ts     | TypeScript         |         60 |         57 |         10 |        127 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/sns-construct.ts                                             | TypeScript         |         32 |          8 |          6 |         46 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/vpc-construct.ts                                             | TypeScript         |        135 |         25 |         20 |        180 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/waf-construct.ts                                             | TypeScript         |        260 |         98 |         18 |        376 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/backup-plan-stack.ts                                             | TypeScript         |         42 |          0 |          6 |         48 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/backup-vault-stack.ts                                            | TypeScript         |         16 |          0 |          6 |         22 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/cloudfront-stack.ts                                              | TypeScript         |         28 |          0 |          5 |         33 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/db-aurora-stack.ts                                               | TypeScript         |         52 |          4 |         11 |         67 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/ecs-app-stack.ts                                                 | TypeScript         |         45 |          0 |          5 |         50 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/elasticache-redis-stack.ts                                       | TypeScript         |        107 |          8 |         12 |        127 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/monitor-stack.ts                                                 | TypeScript         |         36 |          2 |          4 |         42 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/oidc-stack.ts                                                    | TypeScript         |         39 |          2 |          5 |         46 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/opensearch-stack.ts                                              | TypeScript         |         40 |         12 |          8 |         60 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/pipeline-infraresources-stack.ts                                 | TypeScript         |        100 |          0 |         12 |        112 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/share-resources-stack.ts                                         | TypeScript         |         40 |          2 |         10 |         52 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/stepfunctions-sample-stack.ts                                    | TypeScript         |        112 |          3 |         13 |        128 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/waf-alb-stack.ts                                                 | TypeScript         |         25 |          0 |          6 |         31 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/waf-cloudfront-stack.ts                                          | TypeScript         |         38 |          1 |          5 |         44 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/package-lock.json                                                          | JSON               |      6,491 |          0 |          1 |      6,492 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/package.json                                                               | JSON               |         59 |          0 |          1 |         60 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/params/dev.ts                                                              | TypeScript         |        204 |         29 |         26 |        259 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/params/interface.ts                                                        | TypeScript         |        158 |          0 |         20 |        178 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/params/prod.ts                                                             | TypeScript         |        206 |         57 |         23 |        286 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/params/stage.ts                                                            | TypeScript         |        206 |         57 |         23 |        286 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/test/blea-guest-ecsapp-sample.test.ts                                      | TypeScript         |        155 |         12 |         20 |        187 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/tsconfig.base.json                                                         | JSON               |         22 |          0 |          1 |         23 |
+| /home/dungnv/work-space/nal/ccb-cdk-codebase/tsconfig.json                                                              | JSON with Comments |          8 |          0 |          1 |          9 |
+| Total                                                                                                                   |                    |     12,879 |      1,391 |        864 |     15,134 |
++-------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

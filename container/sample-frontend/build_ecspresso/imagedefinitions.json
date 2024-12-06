@@ -1,0 +1,6 @@
+[
+  {
+    "name": "EcsApp",
+    "imageUri": "accountId.dkr.ecr.ap-northeast-1.amazonaws.com/devueno-simplefrontstack-ecsapprepo283935d0-mbw0x9uguire:d41d8cd9"
+  }
+]

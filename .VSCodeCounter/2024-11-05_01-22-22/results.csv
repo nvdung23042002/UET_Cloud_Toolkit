@@ -1,0 +1,113 @@
+"filename", "language", "JSON", "TypeScript", "Markdown", "JavaScript", "YAML", "JSON with Comments", "Properties", "Shell Script", "Python", "Docker", "pip requirements", "HTML", "comment", "blank", "total"
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.env", "Properties", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 3
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.eslintrc.json", "JSON", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 12
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/HowToUse-InfraResources.md", "Markdown", 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 75
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/HowToUse-maintenance.md", "Markdown", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 49
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/InfraResources_ExecutePipeline.yml", "YAML", 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 5, 38
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/InfraResources_RunTest.yml", "YAML", 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 3, 6, 30
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/README.md", "Markdown", 0, 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 81
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/maintenance-off.yml", "YAML", 0, 0, 0, 0, 51, 0, 0, 0, 0, 0, 0, 0, 5, 12, 68
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/maintenance-on.yml", "YAML", 0, 0, 0, 0, 51, 0, 0, 0, 0, 0, 0, 0, 5, 12, 68
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.github/workflows/workflows_template.yml", "YAML", 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 21, 10, 50
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.prettierrc.json", "JSON", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/.versionrc.js", "JavaScript", 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 12
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/README.md", "Markdown", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/bin/blea-guest-ecsapp-sample.ts", "TypeScript", 0, 152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 32, 254
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/buildspec.yaml", "YAML", 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 4, 2, 22
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/cdk.json", "JSON", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/README.md", "Markdown", 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 68
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/bastion/docker/Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 1, 5, 15
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/bastion/docker/check_login.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 1, 3, 19
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/bastion/run_task.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 54, 0, 0, 0, 0, 7, 12, 73
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 8, 18
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/app.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 4, 11
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/appspec.yaml", "YAML", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/build.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 87, 0, 0, 0, 0, 14, 14, 115
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/dev.conf", "Properties", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 4
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/prd.conf", "Properties", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 4
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/stg.conf", "Properties", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 4
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_bg/taskdef_template.json", "JSON", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/autoscale_sample.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 1, 2, 12
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/build.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 74, 0, 0, 0, 0, 14, 14, 102
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/dev.conf", "Properties", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 2, 1, 9
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/ecs-service-def.json", "JSON", 59, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 60
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/ecs-task-def.json", "JSON", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 37
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/ecspresso.yml", "YAML", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/imagedefinitions.json", "JSON", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/prd.conf", "Properties", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 2, 1, 9
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/build_ecspresso/stg.conf", "Properties", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 2, 1, 9
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-backend/requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-ecs-app/Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-ecs-app/buildspec.yml", "YAML", 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 2, 19
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 2, 4, 11
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/appspec.yaml", "YAML", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/build.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 87, 0, 0, 0, 0, 14, 14, 115
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/dev.conf", "Properties", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 4
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/prd.conf", "Properties", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 4
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/stg.conf", "Properties", 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 4
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_bg/taskdef_template.json", "JSON", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/autoscale_sample.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 1, 2, 12
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/build.sh", "Shell Script", 0, 0, 0, 0, 0, 0, 0, 74, 0, 0, 0, 0, 16, 14, 104
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/dev.conf", "Properties", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 2, 1, 9
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/ecs-service-def.json", "JSON", 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 51
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/ecs-task-def.json", "JSON", 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 37
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/ecspresso.yml", "YAML", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/imagedefinitions.json", "JSON", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/prd.conf", "Properties", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 2, 1, 9
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/build_ecspresso/stg.conf", "Properties", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 2, 1, 9
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/docker-compose.yaml", "YAML", 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/container/sample-frontend/nginx.conf", "Properties", 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 3, 21
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/jest.config.js", "JavaScript", 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lambda/batch-sample-app/index.js", "JavaScript", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-alarm-construct.ts", "TypeScript", 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 8, 93
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-cluster-construct.ts", "TypeScript", 0, 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 26, 179
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-mysql-construct.ts", "TypeScript", 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 42
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aurora-constructs/aurora-postgresql-construct.ts", "TypeScript", 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 41
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/aws-managed-prefixlist.ts", "TypeScript", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 46
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/chatbot-construct.ts", "TypeScript", 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 5, 50
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/cloudfront-construct.ts", "TypeScript", 0, 130, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 17, 201
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/cognito-construct.ts", "TypeScript", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 13, 90
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/dashboard-construct.ts", "TypeScript", 0, 843, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 19, 966
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/alb-blue-green-construct.ts", "TypeScript", 0, 228, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 23, 308
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/alb-construct.ts", "TypeScript", 0, 184, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 21, 243
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/alb-target-group-construct.ts", "TypeScript", 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 8, 97
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/bastion-ecs-construct.ts", "TypeScript", 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 15, 134
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-app-construct.ts", "TypeScript", 0, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38, 16, 147
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-common-construct.ts", "TypeScript", 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 14, 114
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-service-construct.ts", "TypeScript", 0, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 14, 122
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/ecs-task-role-construct.ts", "TypeScript", 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 8, 75
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/pipeline-blue-green-construct.ts", "TypeScript", 0, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 13, 101
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/construct/pipeline-ecspresso-construct.ts", "TypeScript", 0, 176, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 15, 237
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/ecs-app-construct/index.ts", "TypeScript", 0, 252, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 81, 23, 356
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/kms-key-construct.ts", "TypeScript", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 38
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/oidc-iamrole-construct.ts", "TypeScript", 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 5, 51
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/opensearch-constructs/opensearch-construct.ts", "TypeScript", 0, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 69, 16, 139
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/opensearch-constructs/opensearch-serverless-construct.ts", "TypeScript", 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 10, 127
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/sns-construct.ts", "TypeScript", 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 6, 46
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/vpc-construct.ts", "TypeScript", 0, 135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 20, 180
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/construct/waf-construct.ts", "TypeScript", 0, 260, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 98, 18, 376
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/backup-plan-stack.ts", "TypeScript", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 48
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/backup-vault-stack.ts", "TypeScript", 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 22
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/cloudfront-stack.ts", "TypeScript", 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/db-aurora-stack.ts", "TypeScript", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 11, 67
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/ecs-app-stack.ts", "TypeScript", 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 50
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/elasticache-redis-stack.ts", "TypeScript", 0, 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 12, 127
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/monitor-stack.ts", "TypeScript", 0, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 42
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/oidc-stack.ts", "TypeScript", 0, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 46
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/opensearch-stack.ts", "TypeScript", 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 8, 60
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/pipeline-infraresources-stack.ts", "TypeScript", 0, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 112
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/share-resources-stack.ts", "TypeScript", 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10, 52
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/stepfunctions-sample-stack.ts", "TypeScript", 0, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13, 128
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/waf-alb-stack.ts", "TypeScript", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 31
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/lib/stack/waf-cloudfront-stack.ts", "TypeScript", 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 44
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/package-lock.json", "JSON", 6491, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6492
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/package.json", "JSON", 59, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 60
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/params/dev.ts", "TypeScript", 0, 204, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 26, 259
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/params/interface.ts", "TypeScript", 0, 158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 178
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/params/prod.ts", "TypeScript", 0, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 23, 286
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/params/stage.ts", "TypeScript", 0, 206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 23, 286
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/test/blea-guest-ecsapp-sample.test.ts", "TypeScript", 0, 155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 20, 187
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/tsconfig.base.json", "JSON", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"/home/dungnv/work-space/nal/ccb-cdk-codebase/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"Total", "-", 6833, 5040, 202, 26, 253, 8, 74, 409, 7, 25, 1, 1, 1391, 864, 15134

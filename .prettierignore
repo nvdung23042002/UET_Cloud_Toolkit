@@ -1,0 +1,9 @@
+LICENSE
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+.github/PULL_REQUEST_TEMPLATE.md
+container/sample-frontend/build_ecspresso/ecs-task-def.json
+container/sample-frontend/build_ecspresso/ecs-service-def.json
+container/sample-backend/build_ecspresso/ecs-task-def.json
+container/sample-backend/build_ecspresso/ecs-service-def.json

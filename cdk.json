@@ -1,0 +1,6 @@
+{
+  "app": "npx ts-node --prefer-ts-exts bin/blea-guest-ecsapp-sample.ts",
+  "context": {
+    "@aws-cdk/customresources:installLatestAwsSdkDefault": false
+  }
+}
